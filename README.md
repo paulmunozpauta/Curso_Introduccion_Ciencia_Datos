@@ -24,7 +24,6 @@ Introduccion-Ciencia-Datos/
 ├── LICENSE
 │
 ├── Notebooks/
-│   ├── M01_Introduccion/
 │   ├── M02_Preparacion_Datos/
 │   ├── M03_Exploracion_Visualizacion/
 │   ├── M04_Analisis_Datos/
@@ -32,12 +31,9 @@ Introduccion-Ciencia-Datos/
 │   └── M06_Proyecto_Final/
 │
 ├── Datasets/
-│   ├── clima/
-│   ├── agricultura/
-│   ├── ambiental/
-│   └── ejemplos/
+
 │
-├── images/
+├── Static/
 
 ```
 
