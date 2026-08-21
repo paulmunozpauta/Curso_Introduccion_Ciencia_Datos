@@ -49,7 +49,7 @@ Módulo 1. Introducción a la Ciencia de Datos
 
 Introducción al entorno de trabajo que utilizaremos durante el curso y a los conceptos fundamentales de Python necesarios para comenzar a trabajar con datos.
 
-Contenidos:
+Contenidos
 
 * Introducción a la ciencia de datos.
 * Google Colab y Jupyter Notebook.
@@ -61,7 +61,7 @@ Contenidos:
 * Introducción a Pandas, NumPy y Matplotlib.
 * Introducción a DataFrames.
 
-Notebook:
+Notebook
 
 M01_Primeros_pasos_Python_Google_Colab.ipynb
 
@@ -86,10 +86,7 @@ Herramientas para organizar, importar, explorar, limpiar y preparar datos antes 
 * Identificación de fechas faltantes en series temporales.
 
 Notebook:
-
 M02_01_Importacion_Exploracion_Datos.ipynb
-
-⸻
 
 2.2 Selección y manipulación de datos
 
@@ -103,10 +100,7 @@ M02_01_Importacion_Exploracion_Datos.ipynb
 * Operaciones sobre variables.
 
 Notebook:
-
 M02_02_Seleccion_Manipulacion_Datos.ipynb
-
-⸻
 
 2.3 Limpieza y preprocesamiento de datos
 
@@ -121,10 +115,7 @@ M02_02_Seleccion_Manipulacion_Datos.ipynb
 * Preparación de datos para análisis.
 
 Notebook:
-
 M02_03_Limpieza_Preprocesamiento.ipynb
-
-⸻
 
 2.4 Agregación y exportación de datos
 
@@ -137,7 +128,6 @@ M02_03_Limpieza_Preprocesamiento.ipynb
 * Archivos CSV y Excel.
 
 Notebook:
-
 M02_04_Agregacion_Exportacion.ipynb
 
 ⸻
@@ -146,7 +136,7 @@ Módulo 3. Exploración y Visualización de Datos
 
 Introducción al análisis exploratorio y a la representación gráfica de datos para identificar características, relaciones y patrones.
 
-Contenidos:
+Contenidos
 
 * Estadística descriptiva.
 * Medidas de tendencia central.
@@ -164,7 +154,7 @@ Contenidos:
 * Análisis exploratorio de datos.
 * Visualización de datos con Python.
 
-Notebook:
+Notebook
 
 M03_Exploracion_Visualizacion.ipynb
 
@@ -174,7 +164,7 @@ Módulo 4. Análisis e Interpretación de Datos
 
 Aplicación de métodos básicos para estudiar relaciones entre variables, identificar patrones y realizar predicciones sencillas a partir de datos.
 
-Contenidos:
+Contenidos
 
 * Correlación.
 * Regresión lineal.
@@ -188,7 +178,7 @@ Contenidos:
 * Comunicación de resultados.
 * Elaboración de gráficos de calidad científica.
 
-Notebook:
+Notebook
 
 M04_Analisis_Datos.ipynb
 
@@ -198,7 +188,7 @@ Módulo 5. Introducción al Aprendizaje Automático
 
 Introducción a conceptos y métodos básicos de aprendizaje automático y sus aplicaciones en ingeniería agrícola y ambiental.
 
-Contenidos:
+Contenidos
 
 * Introducción al aprendizaje automático.
 * Aprendizaje supervisado y no supervisado.
@@ -209,7 +199,7 @@ Contenidos:
 * Agrupamiento de datos (clustering).
 * Aplicaciones en ingeniería agrícola y ambiental.
 
-Notebook:
+Notebook
 
 M05_Aprendizaje_Automatico.ipynb
 
@@ -221,11 +211,23 @@ Aplicación de las herramientas desarrolladas durante el curso mediante un proye
 
 El proyecto permitirá integrar las principales etapas de un flujo de trabajo de ciencia de datos:
 
-Datos → Preparación → Exploración → Visualización → Análisis → Modelación → Comunicación de resultados
+Datos
+  ↓
+Preparación
+  ↓
+Exploración
+  ↓
+Visualización
+  ↓
+Análisis
+  ↓
+Modelación
+  ↓
+Comunicación de resultados
 
 Los estudiantes deberán aplicar las herramientas aprendidas para formular preguntas, preparar y analizar un conjunto de datos, interpretar los resultados obtenidos y comunicarlos de manera clara.
 
-Notebook:
+Notebook
 
 M06_Proyecto_Integrador.ipynb
 
@@ -235,11 +237,11 @@ Datos utilizados
 
 Durante el curso se trabajará principalmente con conjuntos de datos reales relacionados con:
 
-* agricultura;
-* clima;
-* medio ambiente;
-* recursos hídricos;
-* recursos naturales.
+* Agricultura.
+* Clima.
+* Medio ambiente.
+* Recursos hídricos.
+* Recursos naturales.
 
 Parte de las actividades utilizará series climáticas obtenidas del Explorador Climático CR2, incluyendo datos de estaciones ubicadas en la Región de Ñuble.
 
