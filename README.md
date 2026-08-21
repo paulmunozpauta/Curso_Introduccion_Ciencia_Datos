@@ -1,3 +1,5 @@
+Sí. Te lo doy completo y listo para copiar directamente al README.md, usando <pre> para que la estructura del repositorio se mantenga correctamente en GitHub.
+
 Introducción a la Ciencia de Datos
 
 Material oficial del curso Introducción a la Ciencia de Datos para las carreras de Ingeniería Civil Agrícola e Ingeniería Ambiental de la Facultad de Ingeniería Agrícola, Universidad de Concepción.
@@ -20,6 +22,7 @@ Los notebooks están diseñados para ejecutarse directamente en Google Colab, po
 
 Organización del repositorio
 
+<pre>
 Curso_Introduccion_Ciencia_Datos/
 │
 ├── README.md
@@ -40,6 +43,7 @@ Curso_Introduccion_Ciencia_Datos/
 │
 └── Static/
     └── Imgs/
+</pre>
 
 ⸻
 
@@ -134,16 +138,15 @@ M02_04_Agregacion_Exportacion.ipynb
 
 Módulo 3. Exploración y Visualización de Datos
 
-Introducción al análisis exploratorio y a la representación gráfica de datos para identificar características, relaciones y patrones.
+Introducción al análisis exploratorio y a la representación gráfica de datos para describir los datos e identificar características, relaciones y patrones.
 
 Contenidos
 
 * Estadística descriptiva.
-* Medidas de tendencia central.
-* Medidas de dispersión.
 * Mínimos y máximos.
 * Media, mediana y moda.
 * Percentiles.
+* Medidas de dispersión.
 * Agrupación y resumen de datos.
 * Histogramas.
 * Distribuciones.
@@ -211,19 +214,27 @@ Aplicación de las herramientas desarrolladas durante el curso mediante un proye
 
 El proyecto permitirá integrar las principales etapas de un flujo de trabajo de ciencia de datos:
 
+<pre>
 Datos
-  ↓
+  │
+  ▼
 Preparación
-  ↓
+  │
+  ▼
 Exploración
-  ↓
+  │
+  ▼
 Visualización
-  ↓
+  │
+  ▼
 Análisis
-  ↓
+  │
+  ▼
 Modelación
-  ↓
+  │
+  ▼
 Comunicación de resultados
+</pre>
 
 Los estudiantes deberán aplicar las herramientas aprendidas para formular preguntas, preparar y analizar un conjunto de datos, interpretar los resultados obtenidos y comunicarlos de manera clara.
 
