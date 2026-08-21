@@ -23,7 +23,7 @@ Introduccion-Ciencia-Datos/
 ├── README.md
 ├── LICENSE
 │
-├── notebooks/
+├── Notebooks/
 │   ├── M01_Introduccion/
 │   ├── M02_Preparacion_Datos/
 │   ├── M03_Exploracion_Visualizacion/
@@ -31,7 +31,7 @@ Introduccion-Ciencia-Datos/
 │   ├── M05_Aprendizaje_Automatico/
 │   └── M06_Proyecto_Final/
 │
-├── datasets/
+├── Datasets/
 │   ├── clima/
 │   ├── agricultura/
 │   ├── ambiental/
