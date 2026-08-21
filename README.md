@@ -1,5 +1,3 @@
-Sí. Te lo doy completo y listo para copiar directamente al README.md, usando <pre> para que la estructura del repositorio se mantenga correctamente en GitHub.
-
 Introducción a la Ciencia de Datos
 
 Material oficial del curso Introducción a la Ciencia de Datos para las carreras de Ingeniería Civil Agrícola e Ingeniería Ambiental de la Facultad de Ingeniería Agrícola, Universidad de Concepción.
